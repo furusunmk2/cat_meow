@@ -1,0 +1,12 @@
+# すべてのファイルを無視
+*
+
+# .gitignoreファイル自体は無視しない
+!.gitignore
+!*neco_tube.py
+!*necovo_learning.py
+!*necovo.py
+!*README.md
+!*.gitattributes
+
+
